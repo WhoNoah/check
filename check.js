@@ -16,7 +16,7 @@ var Userids = [
   '3578885125',
 ]
 
-require('dotenv').config()
+
 var SecretNum = 22958488649667884291119592456876
 var rayKey = 'lIllIlllIlIlIlIIIIIlllIIlllIlIII'
 var rayKey2 = 'lIllIlllIIIIlIlIlIlllIIIlIIIlIlI'
